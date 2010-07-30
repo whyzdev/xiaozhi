@@ -1,12 +1,3 @@
-#代码文档
-
-= Introduction =
-
-小智的代码文档
-
-
-= Details =
-
 B.1	聊天机器人，sgtalk（small gtalk）工程代码
 GTalkIM类
 
@@ -143,4 +134,4 @@ NewsManager类
 获取新闻信息的类。
 
 GetNews函数
-匹配正则表达式，看是否为
+匹配正则表达式，看是否为新闻，然后从网站获取新闻
